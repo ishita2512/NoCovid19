@@ -1,0 +1,48 @@
+body{
+	padding: 0;
+	margin: 0;
+}
+
+main .row{
+	margin-top: 0;
+}
+main .top-heading{
+	display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    align-content: center;
+    flex-wrap: wrap;
+}
+
+main .container{
+	background-image: url("https://assets.website-files.com/5d8a20a3fb8583f35191fb48/5e4dab1b26b08d6ed3b6197a_bg-shapes.png");
+    padding-top: 5%;
+    padding-bottom: 5%;
+    background-position: 30% 70%;
+    background-size: 121%;
+    background-repeat: no-repeat;
+    text-align: center;
+    color: #2c2c4b;
+}
+
+main p{
+	color:#2c2c4b;
+}
+main .display-4 {
+	color:#2c2c4b;
+}
+
+form .form-group label{
+	color:#2c2c4b;
+}
+
+main .btn{
+  background-color: #7e57ff;
+}
+.contact-us span{
+  color: #7e57ff;
+  font-size: 2em
+}
+
+/*# sourceMappingURL=contact.css.map */

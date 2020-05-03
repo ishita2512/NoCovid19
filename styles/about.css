@@ -1,0 +1,54 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+main .row {
+  margin-top: 0;
+}
+
+main .jumbotron {
+  padding: 0;
+  margin: 0;
+}
+
+main span {
+  color: #7e57ff;
+  font-size: 1.3em;
+}
+
+main img {
+  width: 100%;
+  height: 100%;
+}
+
+main .top-heading {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  align-content: center;
+  flex-wrap: wrap;
+}
+
+main .container {
+  background-image: url("https://assets.website-files.com/5d8a20a3fb8583f35191fb48/5e4dab1b26b08d6ed3b6197a_bg-shapes.png");
+  padding-top: 5%;
+  padding-bottom: 5%;
+  background-position: 30% 70%;
+  background-size: 121%;
+  background-repeat: no-repeat;
+  text-align: center;
+  color: #2c2c4b;
+}
+
+main .lead {
+  color: #2c2c4b;
+}
+
+.contact-us span {
+  color: #7e57ff;
+  font-size: 2em;
+}
+
+/*# sourceMappingURL=about.css.map */
